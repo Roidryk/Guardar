@@ -1,0 +1,15 @@
+C:\Users\Administrador\source\repos\ProyectoGuardar\ProyectoGuardar\obj\Debug\ProyectoGuardar.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\ProyectoGuardar\ProyectoGuardar\obj\Debug\MainWindow.g.cs
+C:\Users\Administrador\source\repos\ProyectoGuardar\ProyectoGuardar\obj\Debug\App.g.cs
+C:\Users\Administrador\source\repos\ProyectoGuardar\ProyectoGuardar\obj\Debug\ProyectoGuardar_MarkupCompile.cache
+C:\Users\Administrador\source\repos\ProyectoGuardar\ProyectoGuardar\obj\Debug\ProyectoGuardar_MarkupCompile.lref
+C:\Users\Administrador\source\repos\ProyectoGuardar\ProyectoGuardar\bin\Debug\ProyectoGuardar.exe.config
+C:\Users\Administrador\source\repos\ProyectoGuardar\ProyectoGuardar\bin\Debug\ProyectoGuardar.exe
+C:\Users\Administrador\source\repos\ProyectoGuardar\ProyectoGuardar\bin\Debug\ProyectoGuardar.pdb
+C:\Users\Administrador\source\repos\ProyectoGuardar\ProyectoGuardar\obj\Debug\MainWindow.baml
+C:\Users\Administrador\source\repos\ProyectoGuardar\ProyectoGuardar\obj\Debug\ProyectoGuardar.g.resources
+C:\Users\Administrador\source\repos\ProyectoGuardar\ProyectoGuardar\obj\Debug\ProyectoGuardar.Properties.Resources.resources
+C:\Users\Administrador\source\repos\ProyectoGuardar\ProyectoGuardar\obj\Debug\ProyectoGuardar.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\ProyectoGuardar\ProyectoGuardar\obj\Debug\ProyectoGuardar.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\ProyectoGuardar\ProyectoGuardar\obj\Debug\ProyectoGuardar.exe
+C:\Users\Administrador\source\repos\ProyectoGuardar\ProyectoGuardar\obj\Debug\ProyectoGuardar.pdb
